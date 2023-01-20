@@ -1,9 +1,9 @@
 # GitHub User Search app
 
-[Try it out](https://syknapse.github.io/GitHub-User-Search-app/) Enter GitHub user name and see information about them and their followers.
+_Using the gitHub API to get and display user information with interactive links._
 
-[![githubsearchv1](https://user-images.githubusercontent.com/29199184/36611482-dece234a-18d3-11e8-8a20-1647d2242643.gif)](https://syknapse.github.io/GitHub-User-Search-app/)
+**Goal** - To locate the user's profile on GitHub using their username
 
-Part of [Cassidy Williams](https://twitter.com/cassidoo)'s course [JavaScript and React for Developers](https://www.udemy.com/js-and-react-for-devs/)
+**Process** - You need to go to the website first. The username for the account you need to find must then be entered, followed by a key press. You may access the user's information on the website, including their name, location, and followers.
 
-Using the gitHub API to get and display user information with interactive links.
+**Features** - Contains user information such their profile picture, full name, location, and repository.
